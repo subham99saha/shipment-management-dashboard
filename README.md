@@ -16,15 +16,11 @@ Then I created a UI (using React) to:
 - Fetch all return requests from the database and track their progress
 - Manage super admins and admins within the client's organisation ensuring different roles and privileges to each kind
 
-Will write about this more with time. For now, the following are a few snapshots from the interface. 
-
-![](https://raw.githubusercontent.com/subham99saha/shipment-management-dashboard/refs/heads/main/snaps/2022-04-12%20(1).png)
-
-![](https://raw.githubusercontent.com/subham99saha/shipment-management-dashboard/refs/heads/main/snaps/2022-04-12.png)
-
-![](https://raw.githubusercontent.com/subham99saha/shipment-management-dashboard/refs/heads/main/snaps/2022-05-24.png)
+Will write more on this in time. For now, the following are a few snapshots from the interface. 
 
 ![](https://raw.githubusercontent.com/subham99saha/shipment-management-dashboard/refs/heads/main/snaps/2022-05-31%20(1).png)
+
+![](https://raw.githubusercontent.com/subham99saha/shipment-management-dashboard/refs/heads/main/snaps/2022-05-24.png)
 
 ![](https://raw.githubusercontent.com/subham99saha/shipment-management-dashboard/refs/heads/main/snaps/2022-05-31%20(2).png)
 
