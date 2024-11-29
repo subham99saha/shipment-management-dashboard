@@ -22,18 +22,12 @@ Will write about this more with time. For now, the following are a few snapshots
 
 ![](https://raw.githubusercontent.com/subham99saha/shipment-management-dashboard/refs/heads/main/snaps/2022-04-12.png)
 
-![](https://raw.githubusercontent.com/subham99saha/shipment-management-dashboard/refs/heads/main/snaps/2022-04-28.png)
-
 ![](https://raw.githubusercontent.com/subham99saha/shipment-management-dashboard/refs/heads/main/snaps/2022-05-24.png)
-
-![](https://raw.githubusercontent.com/subham99saha/shipment-management-dashboard/refs/heads/main/snaps/2022-05-09%20(1).png)
 
 ![](https://raw.githubusercontent.com/subham99saha/shipment-management-dashboard/refs/heads/main/snaps/2022-05-31%20(1).png)
 
 ![](https://raw.githubusercontent.com/subham99saha/shipment-management-dashboard/refs/heads/main/snaps/2022-05-31%20(2).png)
 
 ![](https://raw.githubusercontent.com/subham99saha/shipment-management-dashboard/refs/heads/main/snaps/2022-05-31%20(3).png)
-
-![](https://raw.githubusercontent.com/subham99saha/shipment-management-dashboard/refs/heads/main/snaps/2022-05-31.png)
 
 
