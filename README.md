@@ -1,4 +1,6 @@
 # Shipment Management Dashboard
+> Can't add code owing to privacy policies
+
 Dashboards (for both admin and super-admin) that  will allow the admin/super admin to run CRUD operations on current orders, shipments, returns, courier services, and user/admin information.
 
 ## Order Management for an e-commerce platform
